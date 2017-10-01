@@ -1,0 +1,7 @@
+Resisto
+inserir alumni
+validar registo
+Foto
+password encriptacao
+short table
+Sessao/Login/logout
